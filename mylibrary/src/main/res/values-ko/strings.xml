@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="permission_no_file">앱에 파일 권한이 있어야 합니다 !</string>
+    <string name="permission_no_file_exit">파일 권한이 없습니다. 종료합니다 !</string>
+
+
+</resources>

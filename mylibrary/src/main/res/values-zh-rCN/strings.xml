@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="permission_no_file">这个应用必须获取文件权限!</string>
+    <string name="permission_no_file_exit">没文件权限 ,退出!</string>
+
+
+</resources>

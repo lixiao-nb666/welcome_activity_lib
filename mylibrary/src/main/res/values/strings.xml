@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="permission_no_file">The app must be have file permission !</string>
+    <string name="permission_no_file_exit">No file permission ,Exit !</string>
+
+
+</resources>

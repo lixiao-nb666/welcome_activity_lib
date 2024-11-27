@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="permission_no_file">Eine anwendung muss über dateirechte verfügen !</string>
+    <string name="permission_no_file_exit">Keine berechtigung berechtigung, beenden !</string>
+
+
+</resources>

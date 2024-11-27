@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="permission_no_file">O aplicativo deve ter permissão de arquivo !</string>
+    <string name="permission_no_file_exit">sem permissão de arquivo, saída !</string>
+
+
+</resources>

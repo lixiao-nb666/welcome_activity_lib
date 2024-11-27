@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="permission_no_file">アプリは、ファイルの許可を持っている必要があります !</string>
+    <string name="permission_no_file_exit">ファイル許可なしで終了 !</string>
+
+
+</resources>
